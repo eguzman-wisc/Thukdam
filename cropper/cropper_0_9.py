@@ -2,7 +2,7 @@
 """
 Created on Sat Oct 13 15:02:41 2018
 
-@author: guzman
+@author: Enrique Guzman
 """
 
 #!/usr/bin/python
