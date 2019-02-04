@@ -15,9 +15,6 @@ Description: Decimator takes in a raw .bdf EEG data file and returns a .bdf file
 Arguments:
     --infile=[filename.bdf] or a complete file path (e.g Y:/study/year/folder/filename.bdf)     
     --outfile=[filename.bdf]   
-    --mmn_pad=[#.##] (Default: 0.5 sec)  
-    --abr_pad=[#.##] (Default: 0.1 sec)  
-    --keep_all_channels (Default: keeps only first 6 EEG channels and the event channel)
     --samp_rate=[#] (Default if no arg: 512 Hz)   
     --low_freq=[#] (Default if no arg: None, no low freq cut-off)
     --high_freq=[#] (Default if no arg: 256, half of sampling rate)   
